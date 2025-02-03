@@ -1,2 +1,2 @@
 # odin-recipes
-as
+This project is a simple recipe website that includes a homepage and three additional recipe pages. Each recipe page contains detailed instructions and ingredient lists. The goal of this project was to practice structuring a website with multiple pages and implementing lists to organize ingredients and steps clearly.
